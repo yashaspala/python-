@@ -22,3 +22,4 @@ for i in range(0, len(arr)):
         if is_prime(sum):
             count = count + 1
 print(count)
+print(count)
