@@ -1,5 +1,16 @@
-# python-
-: num = int(input())
+'''
+Input Format:
+First-line contains a number N
+Output Format:
+Print the total number of all such prime numbers which are
+less than or equal to N.
+
+Constraints:
+2<N<=12,000,000,000
+
+'''
+
+num = int(input())
 arr = []
 sum = 0
 count = 0
